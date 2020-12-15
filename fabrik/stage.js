@@ -1,11 +1,11 @@
 import {
   pointsDistance,
   pointAtSegmentDistance
-} from "./helpers";
+} from "./helpers.js";
 
 import {
   extendByInteractivePoints
-} from "./snapExtensions";
+} from "./snapExtensions.js";
 
 // CREATE SAMPLE
 const start = [100, 500];
